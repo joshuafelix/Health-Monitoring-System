@@ -8,7 +8,7 @@ const char* password = "";
 
 WiFiClient client;
 
-// 🔴 REPLACE THESE
+//  REPLACE THESE
 unsigned long channelNumber = 3306095;
 const char* apiKey = "16EDTRYT93ZLU6U3";
 
