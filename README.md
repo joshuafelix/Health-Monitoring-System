@@ -97,7 +97,7 @@ Threshold-Based Alerts
 ├── screenshots/
 └── README.md
 ```
-```markdown
+
 ## Screenshots
 
 ### Wokwi Simulation
