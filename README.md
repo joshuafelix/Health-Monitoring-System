@@ -96,3 +96,18 @@ Threshold-Based Alerts
 │   └── circuit_design
 ├── screenshots/
 └── README.md
+```
+```markdown
+## Screenshots
+
+### Wokwi Simulation
+![Wokwi](screenshots/wokwi.png)
+
+### Proteus Circuit
+![Proteus](screenshots/proteus.png)
+
+### ThingSpeak Dashboard
+![ThingSpeak](screenshots/thingspeak.png)
+
+### Custom Dashboard
+![Dashboard](screenshots/dashboard.png)
